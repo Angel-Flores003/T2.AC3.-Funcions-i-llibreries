@@ -1,5 +1,6 @@
 using System;
-//Pre: 
+//Pre:
+```C#
 namespace MyProject
 {
     public class Super4
@@ -18,7 +19,6 @@ namespace MyProject
                 Console.WriteLine(message);
                 a = Convert.ToInt32(Console.ReadLine());
                 isError = true;
-
             } while (a > max || a < min);
             return a;
         }
@@ -78,4 +78,5 @@ namespace MyProject
         }
     }
 }
+```
 //Post: 
