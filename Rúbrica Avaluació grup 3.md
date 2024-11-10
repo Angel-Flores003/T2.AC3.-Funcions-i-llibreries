@@ -1,5 +1,5 @@
 
-# Rúbrica Avaluació grup X
+# Rúbrica Avaluació grup 3
 ## Pseudocodi
 | Criteri | 2 | 1 | 0 | Puntuació |
 | ------ | ------ | ------ | ------ | ------ |
